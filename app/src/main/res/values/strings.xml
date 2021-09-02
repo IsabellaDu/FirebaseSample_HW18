@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">FIrebaseSample_HW18</string>
+    <string name="facebook_app_id">4646105965434401</string> <string name="fb_login_protocol_scheme">fb4646105965434401</string>
+</resources>
